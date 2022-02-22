@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-This application is deployed on Heroku. Please check it out [here](https://tinderrr-clonee.herokuapp.com// "here title") 😄.
+This application is deployed on Heroku. Please check it out [here](https://tinderrr-clonee.herokuapp.com/ "here title") 😄.
 
 ## Install
 Some basic Git commands are:
