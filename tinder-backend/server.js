@@ -13,7 +13,7 @@ app.use(Cors());
 
 //DB config
 mongoose.connect(
-  "mongodb+srv://kashish:kashish@cluster0.i7od8.mongodb.net/test?retryWrites=true&w=majority",
+  "mongodb+srv://<username>:<password>@cluster0.i7od8.mongodb.net/test?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
